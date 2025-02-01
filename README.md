@@ -10,10 +10,10 @@
 
 ## 💼 Experience
 - 🎮 **Personal Projects** – Always experimenting with new mechanics and gameplay ideas.
-- 🏆 **Game Jams** – Participated in **Gran CITM GameJam 7**, **Premis Ludi**, and **Gran CITM GameJam 8**,  creating [Stage, Macca, Pilars of glory and ].
+- 🏆 **Game Jams** – Participated in **Gran CITM GameJam 7**, **Premis Ludi**, and **Gran CITM GameJam 8**,  creating [Stage, Macca, Pilars of glory and Mot i Vers].
 
 ## 🎓 Education
-- 🎓 Studying [Your Degree] at [Your University/Institution].
+- 🎓 Studying [Videogames] at [UPC CITM].
 - 🏫 Focused on **game development, programming, and design**.
 
 ## 🎯 Career Goals
@@ -27,8 +27,8 @@
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git)
 
 ## 📫 Let's Connect!
-- 📧 Email: [your.email@example.com]
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: [javigg011205@gmail.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/javier-g%C3%B3mez-gonz%C3%A1lez-98b409303)
 - 🕹️ [Itch.io](https://your-itch-io-profile.itch.io)
 
 ---
