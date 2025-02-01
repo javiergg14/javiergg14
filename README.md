@@ -29,7 +29,7 @@
 ## 📫 Let's Connect!
 - 📧 Email: [javigg011205@gmail.com]
 - 🔗 [LinkedIn](https://www.linkedin.com/in/javier-g%C3%B3mez-gonz%C3%A1lez-98b409303)
-- 🕹️ [Itch.io]([https://your-itch-io-profile.itch.io](https://javiergg14.itch.io/))
+- 🕹️ [Itch.io](https://javiergg14.itch.io/)
 
 ---
 💡 *Always learning, always improving. Let's make amazing games together!* 🎮
