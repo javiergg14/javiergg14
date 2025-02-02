@@ -1,4 +1,4 @@
-![Welcome Banner](https://source.unsplash.com/1600x400/?gaming,technology)
+![Welcome Banner](Banner.jpg)
 
 # 🎮 Hey there! I'm Javier Gómez 👋
 
