@@ -1,6 +1,6 @@
-![Welcome Banner](Banner.jpg)
-
 # 🎮 Hey there! I'm Javier Gómez 👋
+
+![Welcome Banner](Banner1.jpg)
 
 🚀 Passionate about **game design, development, and programming**. I love bringing creative ideas to life and making interactive experiences that players enjoy!
 
