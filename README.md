@@ -12,7 +12,12 @@
 <hr>
 
 <h2>💼 Experience</h2>  
-<p><strong>🏆 Game Jams</strong><br> - 🎮 <strong>Gran CITM GameJam 7</strong> - Stage <br> - 🏅 <strong>Premis Ludi</strong> - Mot i Vers <br> - 🎮 <strong>Gran CITM GameJam 8</strong> - Macca, Pillars of Glory</p>  
+<p><strong>🏆 Game Jams</strong><br>  
+- 🎮 <strong>Gran CITM GameJam 7</strong> - <a href="https://github.com/javiergg14/Stage" target="_blank">Stage</a> <br>  
+- 🏅 <strong>Premis Ludi</strong> - <a href="https://github.com/javiergg14/MotIVers" target="_blank">Mot i Vers</a> <br>  
+- 🎮 <strong>Gran CITM GameJam 8</strong> - <a href="https://github.com/javiergg14/Macca-Pilars-of-glory-" target="_blank">Macca, Pillars of Glory</a>  
+</p>
+ 
 
 <hr>
 
