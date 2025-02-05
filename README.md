@@ -1,51 +1,49 @@
-<h1>🎮 Hey there! I'm <strong>Javier Gómez</strong> 👋</h1>  
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
-<img src="Banner1.jpg" alt="Welcome Banner">
-
-<p>🚀 Passionate about <strong>game design, development, and programming</strong>.</p>  
-
-<hr>
-
-<h2>🛠️ What I Do</h2>  
-<p><strong>🎨 Game Designer</strong><br> 🕹️ Creating innovative mechanics and engaging gameplay. <br> 🖥️ <strong>Game Developer</strong> <br> 🔧 Developing games in <strong>Unity</strong> with <strong>C#</strong>. <br> 📌 Experimenting with physics and mechanics. <br> 🎯 Improving <strong>game feel and player engagement</strong>.</p>  
-
-<hr>
-
-<h2>💼 Experience</h2>  
-<p><strong>🏆 Game Jams</strong><br>  
-- 🎮 <strong>Gran CITM GameJam 7</strong> - <a href="https://github.com/javiergg14/Stage" target="_blank">Stage</a> <br>  
-- 🏅 <strong>Premis Ludi</strong> - <a href="https://github.com/javiergg14/MotIVers" target="_blank">Mot i Vers</a> <br>  
-- 🎮 <strong>Gran CITM GameJam 8</strong> - <a href="https://github.com/javiergg14/Macca-Pilars-of-glory-" target="_blank">Macca, Pillars of Glory</a>  
+<p align="center">
+  <strong>Game Designer & Developer | Passionate about innovative mechanics and engaging gameplay</strong>
 </p>
- 
 
-<hr>
+<h2>About Me</h2>
+<ul>
+  <li><strong>Education:</strong> Studied Video Game Design and Development at <a href="https://www.citm.upc.edu/">CITM - UPC</a></li>
+  <li><strong>Skills:</strong> Game design, programming (C#, C++), mechanics development, problem-solving</li>
+  <li><strong>Experience:</strong> Worked on various game projects and participated in multiple game jams</li>
+  <li><strong>Passion:</strong> Creating unique and immersive gaming experiences</li>
+</ul>
 
-<h2>🎓 Education</h2>  
-<p><strong>🎓 Studying Video Games</strong> at <strong>UPC CITM</strong>.<br> 📚 Focused on <strong>game development, programming, and design</strong>.</p>  
+<h2>Projects & Game Jams</h2>
+<p>Throughout my journey, I have worked on several projects, experimenting with various mechanics and gameplay elements. I have also participated in notable game jams, such as:</p>
+<ul>
+  <li><strong><a href="https://github.com/javiergg14/Stage">Gran CITM GameJam 7</a></strong>  
+    <br><em>Role:</em> Programmer - Focused on coding game systems, including level transitions, scoring systems, and game mechanics.
+  </li>
+  
+  <li><strong><a href="https://github.com/javiergg14/Macca-TowersOfGlory">Gran CITM GameJam 8</a></strong>  
+    <br><em>Role:</em> Programmer - Worked on developing key game systems, including transitions between levels, scoring mechanics, and essential gameplay elements.
+  </li>
 
-<hr>
+  <li><strong><a href="https://github.com/javiergg14/MotIVers">Premis Ludi</a></strong>  
+    <br><em>Role:</em> Programmer - Responsible for implementing game systems such as level transitions, scoring mechanics, and core gameplay features.
+  </li>
+</ul>
 
-<h2>🎯 Career Goals</h2>  
-<p>✨ Create <strong>immersive and innovative games</strong>.<br> 💡 Specialize in <strong>mechanics, physics, and player engagement</strong>.<br> 🌍 Collaborate with <strong>talented developers worldwide</strong>.</p>  
 
-<hr>
 
-<h2>🔧 Tech Stack</h2>  
-<img src="https://img.shields.io/badge/Engine-Unity-000?style=for-the-badge&logo=unity" alt="Unity"> 
-<img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=c-sharp" alt="C#"> 
-<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git" alt="Git">
+<h2>Technologies & Tools</h2>
+<p>I primarily work with:</p>
+<ul>
+  <li><strong>Game Engines:</strong> Unity (C#)</li>
+  <li><strong>Programming Languages:</strong> C++, C#</li>
+  <li><strong>Version Control:</strong> GitHub</li>
+  <li><strong>Other Tools:</strong> Photoshop, Maya, Zbrush</li>
+</ul>
 
-<hr>
-
-<h2>📫 Let's Connect!</h2>
-
-<p>📧 <strong>Email</strong>: <a href="mailto:javigg011205@gmail.com">javigg011205@gmail.com</a></p>  
-<p>🔗 <strong><a href="https://www.linkedin.com/in/javier-g%C3%B3mez-gonz%C3%A1lez-98b409303">LinkedIn</a></strong></p>  
-<p>🕹️ <strong><a href="https://javiergg14.itch.io/">Itch.io</a></strong></p>  
-<p>📱 <strong>Phone</strong>: +34 682 47 46 31</p>  
-<p>🎮 <strong>Discord</strong>: javiergg_14</p>
-
-<hr>
-
-<p><em>💡 Always learning, always improving. Let's create amazing games together! 🎮</em></p>
+<h2>Contact</h2>
+<p>If you're interested in collaborating or learning more about my work, feel free to reach out:</p>
+<ul>
+  <li><strong>Email: </strong>javigg011205@gmail.com</li>
+  <li><strong>Telefono:</strong> + 34 682 47 46 31</li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/javier-g%C3%B3mez-gonz%C3%A1lez-98b409303">Javier Gómez González</a></li>
+  <li><strong>Portfolio:</strong> <a href="https://javiergg14.github.io/">javiergg14.github.io</a></li>
+</ul>
